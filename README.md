@@ -1,4 +1,4 @@
-# MADPractical1 - Android Activity Lifecycle
+# MADPractical_2 - Android Activity Lifecycle
 
 A simple Android application developed as part of Mobile Application Development (MAD) Practical. This project demonstrates the Android Activity Lifecycle and basic UI layout using ConstraintLayout.
 
