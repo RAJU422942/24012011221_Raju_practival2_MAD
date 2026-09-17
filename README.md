@@ -32,6 +32,9 @@ The application displays a message (Toast) like "onResume function called." when
 3. Sync the project with Gradle files.
 4. Run the app on an emulator or a physical Android device.
 5. Observe the Toasts on the screen and the Logs in the `Logcat` window (filter by tag: `MainActivity`).
+   ## screenshot
+   <img width="376" height="726" alt="image" src="https://github.com/user-attachments/assets/8707fd02-c3be-43a3-bf4f-38711f14048a" />
+
 
 ## Author
-*Practical Work - MAD*
+Raju kuamr sah 
